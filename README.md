@@ -1,1 +1,1 @@
-<h1> welcome to HS Group </h1>
+<h1> Welcome to HS Group </h1>
