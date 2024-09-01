@@ -1,0 +1,313 @@
+.top_header {
+    background-color: #00a884;
+    width: 100%;
+    height: 110px;
+    position: absolute;
+}
+
+
+.body_part {
+    background-color: #d3d6d8;
+    width: 100%;
+    height: 100%;
+}
+
+.both_part {
+
+    width: 100%;
+    height: 551px;
+    position: relative;
+    margin-top: 79px !important;
+}
+
+.whatsapp_part {
+    background-color: #ffff;
+    border-right: 1px solid black;
+    height:636px;
+}
+
+.col-7.message_part {
+    background-color: #e9edef;
+}
+
+.whatsapp_top_header {
+    /* background-color: #e9edef; */
+    width: 370px;
+    height: 62px;
+    margin-left: 0px;
+    margin-right: -75px !important;
+    border-right: 1px solid black;
+    margin-left: -15px;
+}
+h5.hs_add_profile {
+    color: #ffffff; 
+}
+
+.search_field {
+    margin-top: 20px;
+}
+
+input.form-control.me-2 {
+    background-color: #e9edef;
+}
+/* img.hs_profile {
+    height: 57px;
+    border-radius: 173px;
+} */
+/* img.hs_profile {
+float: left;
+} */
+img.hs_profile {
+    height: 60px;
+    border-radius: 41px;
+    width: 56px;
+    float: left;
+}
+
+
+.hs_number {
+margin-left: right;/* float: right; */
+width: -2px;
+margin-left: 43px;
+margin-top: 20px;
+float: left;
+font-size: 25px;
+margin-top: 5px;
+}
+.display_single {
+/* background-color: #e9edef !important; */
+height: 67px;
+width: 100%;
+/* float: right; */
+/* margin-left: -15px; */
+margin-left: 2px;
+
+}
+
+/* .data_message.active .display_single {
+background-color: #e9edef;
+margin-left: -14px;
+width: 369px;
+} */
+.data_message.active .display_single {
+    background-color: #e9edef;
+    margin-left: 6px;
+    /* width: 369px; */
+}
+.hs_time {
+float: right;
+margin-right: 10px;
+margin-top: 13px;
+font-size: 15;
+}
+
+.data_message{
+cursor: pointer;
+}
+
+img.images_message_container {
+height: 403px;
+margin-top:50px;
+}
+input.form-control.me-2.send_message {
+background-color: #ffff;
+}
+
+.sender_part {
+/* margin-top: 37px; */
+display:none;
+height: 79px;
+background-color: #F0F3F5;
+margin-left:-14px;
+
+}
+.send_input {
+    position: absolute;
+    margin-top: 17px;
+    width: 97%;
+}
+
+img.send_icone {
+height: 26px;
+/* background-color: black !important; */
+}
+button.send_button {
+border: none;
+}
+
+.alert.alert-light.recevier_header {
+/* float: right; */
+width: 201px;
+margin-left: 68%;
+}
+.alert.alert-success.sender_header {
+width: 201px;
+}
+.message_block {
+oerscroll-behavior-y: contain;
+overflow-x: auto; /* This will add the horizontal scrollbar */
+white-space: nowrap; /* This prevents wrapping of the content */
+/* height:396px; */
+height:615px;
+
+overflow-x: hidden;
+/* background-color:#efeae2; */
+background-color:#f0f2f5;
+width: 105%;
+margin-left: -13px
+}
+
+p.display_number {
+margin-top: 23px;
+margin-left: 72px;
+}
+
+.hs_number_block {
+height: 500px;
+oerscroll-behavior-y: contain;
+overflow-x: auto; 
+white-space: nowrap;
+overflow-x: hidden;
+}
+.hs-iconepart-bottom {
+margin-top: 516px !important;
+margin-left: 10px;
+}
+
+.col-6.message_part {
+max-width: 709px;
+}
+/* .col-2.hs_authpart {
+max-width: 56px !important;
+background-color:#f0f2f5;
+.col-2.hs_authpart {
+    max-width: 56px !important;
+    background-color: #f0f2f5;
+    border-right: 1px solid #0000001f;
+} */
+
+.col-2.hs_authpart {
+    max-width: 56px !important;
+    background-color: #f0f2f5;
+    border-right: 1px solid #0000001f;}
+
+.row.icone {
+margin-top: 16px;
+}
+
+.message_block.messagepart {
+    width: 667px;
+}
+.header_profile_part {
+    background: #f0f2f5;
+    /* float: right; */
+    width: 102%;
+    margin-left: -15px !important;
+  
+    /* margin-right: 3px !important; */
+}
+.message_block.data_part {
+    width: 667px;
+}
+.message_block.message_part_data {
+    width: 667px;
+    background-color: #efeae2;
+    height:500px; 
+}
+.profile_picture.selected_icone.active {
+    background-color: red;
+    width: 40px;
+    height: 39px;
+    /* margin-top: -10; */
+    text-align: center;
+    border-radius: 20px;
+    position: relative;
+    margin-top: 7px;
+}
+
+i.fas.fa-user.icone_part {
+    margin-top: 10px;
+}
+.hs_full_part {
+    background-color: #f0f2f5!important;
+    width: 369px;
+    height: 100%;
+    /* foat: left;
+    margin-padding: 10px !important; */
+    float: left;
+    margin-left: -15px;
+}
+
+img.hs_edit_image {
+    width: 220px;
+    margin-left: 66px;
+    margin-top: 24px;
+}
+img.hs_camera_icon {
+    /* widht: 10px; */
+    widtH: 46px;
+    /* margin-top: -111px; */
+}
+
+.hs_add_part {
+    margin-top: -157PX;
+    margin-left: 153px;
+}
+h5.hs_camera_heading {
+    margin-left: -14px;
+}
+
+
+.hs_edit {
+    margin-top: 107px;
+    /* margin-left: 10px; */
+    background-color: #ffff;
+    width: 100%;
+    height:75px;
+}
+
+.hs_edit_about {
+    margin-top: 50px;
+    /* margin-left: 10px; */
+    background-color: #ffff;
+    width: 100%;
+    height:75px;
+}
+
+.hs_edit .hs_edit_heading {
+    margin-left: 10px;
+}
+
+.hs_edit .hs_edit_name {
+    margin-left: 10px;
+    border:none;
+}
+
+i.fas.fa-pencil-alt {
+    margin-left: 160px;
+    margin-bottom: 10px;
+    margin-top:6px;
+}
+input.form-control.hs_edit_name {
+    width: 321px;
+   
+}
+.hs_describtion {
+    color: #54656fbd;
+    margin-top: 10px;
+    margin-left: 24px;
+}
+input.hs_edit_name {
+    background-color: #ffff;
+    width:322px; 
+    border: none;
+}
+
+p.hs_edit_aboutpart,input.hs_edit_name {
+    margin-left: 10px;
+}
+
+img.hs_edit_image.hs_profile_picture {
+    border-radius: 127px;
+    height: 228px;
+}
